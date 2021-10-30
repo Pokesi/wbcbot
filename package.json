@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "fant-bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "discord.js": "^13.2.0",
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": ":P",
+  "license": "Unlicense"
+}
